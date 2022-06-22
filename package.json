@@ -1,6 +1,6 @@
 {
   "name": "origin",
-  "version": "9.0.0",
+  "version": "10.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shufangzhao/origin.git"
+    "url": "git@github.com:shufangzhao/origin.git"
   },
   "author": "",
   "license": "ISC",
